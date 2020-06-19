@@ -1,8 +1,8 @@
 {
   "footer": "Blockchain &copy; 2019",
-  "dark_mode": true,
+  "dark_mode": false,
   "site_name": "UrBen.eth",
   "site_description": "Lens Based Digital Art",
-  "hero_title": "UrBen.eth",
+  "hero_title": "<a href=\"https://artswap.eth.link/\" title=\"\">UrBen.eth</a>",
   "hero_subtitle": "Lens Based Artist"
 }
