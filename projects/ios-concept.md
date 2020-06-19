@@ -7,4 +7,4 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-![](/uploads/markus-spiske-516263-unsplash.jpg)
+![](/uploads/9842a5a4-fc22-4b28-a5be-1ccb53bd8dc0.gif)
