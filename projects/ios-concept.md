@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/9842a5a4-fc22-4b28-a5be-1ccb53bd8dc0.gif"
+thumbnail: "/uploads/ac6c18d9-485d-430d-9169-0ceee4db0b06.jpg"
 title: Mansa Musa
 date: 2019-01-03
 categories: []
@@ -7,4 +7,3 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-![](/uploads/9842a5a4-fc22-4b28-a5be-1ccb53bd8dc0.gif)
