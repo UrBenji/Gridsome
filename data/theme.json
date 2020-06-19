@@ -4,5 +4,13 @@
   "site_name": "UrBen.eth",
   "site_description": "Lens Based Digital Art",
   "hero_title": "<a href=\"https://artswap.eth.link/\" title=\"\">UrBen.eth</a>",
-  "hero_subtitle": "Lens Based Artist"
+  "hero_subtitle": "Lens Based Artist",
+  "date": "2020-06-19",
+  "thumbnail": "",
+  "categories": [
+
+  ],
+  "project_bg_color": "",
+  "project_fg_color": "",
+  "author": "Nichlas W. Andersen"
 }
